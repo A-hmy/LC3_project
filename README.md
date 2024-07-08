@@ -67,7 +67,7 @@ The LC3 instructions are executed in the following six phases, each correspondin
 
 ## Application Screenshot
 
-![LC3 Simulator](./path/to/your/image.png)
+![LC3 Simulator]([./path/to/your/image.png](https://github.com/A-hmy/LC3_project/blob/main/Snag_11652da.png))
 
 ## Detailed Description
 

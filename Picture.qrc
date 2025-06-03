@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/prefix1">
+        <file>picture/Premium Vector _ Cute panda is angry and holding a baseball bat.png</file>
+        <file>picture/Premium Vector _ Cute panda working on a laptop.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,28 @@
+#include "globalvariable.h"
+#include "registers.h"
+#include <cstdint>
+#include <QFile>
+
+ Registers registers;
+ uint16_t ir;
+ uint16_t v_sr1;
+ uint16_t v_sr2;
+ uint16_t GateALU;
+ uint16_t value;
+ uint16_t sr;
+ uint16_t nzp;
+ uint16_t dr;
+ uint16_t sr1;
+ uint16_t sr2;
+ uint16_t imm5;
+ int16_t offset9;
+ int16_t offset6;
+ int16_t offset11;
+ uint16_t base_r;
+ uint16_t flag;
+ uint16_t opcode;
+ uint16_t address;
+ Memory memory(0xFFFF);
+ QFile Binaryfile("binarycode");
+ int index;
+ int manager=1;
